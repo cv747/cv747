@@ -4,7 +4,7 @@ Hi 👋 My name is Carter Vernon
 Director at Vista Web Ltd.
 --------------------------
 
-With a foundation rooted in Computer Science and Maths, I lead Vista Web Ltd, driving software development, project management, and team leadership.
+With a foundation rooted in Computer Science and Maths, I lead Vista Web Ltd., driving software development, project management, and leadership.
 
 * 🌍  I'm based in Lincolnshire
 * 🖥️  See my portfolio at [cartervernon.com](http://https://cartervernon.com) (Temporary Design)
