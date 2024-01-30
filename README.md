@@ -11,7 +11,7 @@ With a foundation rooted in Computer Science and Maths, I lead Vista Web Ltd, dr
 * ✉️  You can contact me at [me@cartervernon.com](mailto:me@cartervernon.com)
 * 🧠  I'm learning C++ and Japanese
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I was part of a team that conquered the English Channel
+* ⚡  I was part of a team that swam across the English Channel
 
 ### Skills
 
