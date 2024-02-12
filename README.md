@@ -7,7 +7,7 @@ Director at Vista Web Ltd.
 With a foundation rooted in Computer Science and Maths, I lead Vista Web Ltd., driving software development, project management, and leadership.
 
 * 🌍  I'm based in Lincolnshire
-* 🖥️  See my portfolio at [cartervernon.com](http://https://cartervernon.com) (Temporary Design)
+* 🖥️  See my portfolio at [cartervernon.com](https://cartervernon.com) (Temporary Design)
 * ✉️  You can contact me at [me@cartervernon.com](mailto:me@cartervernon.com)
 * 🧠  I'm learning C++ and Japanese
 * 🤝  I'm open to collaborating on interesting projects
