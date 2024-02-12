@@ -9,7 +9,7 @@ With a foundation rooted in Computer Science and Maths, I lead Vista Web Ltd., d
 * 🌍  I'm based in Lincolnshire
 * 🖥️  See my portfolio at [cartervernon.com](https://cartervernon.com) (Temporary Design)
 * ✉️  You can contact me at [me@cartervernon.com](mailto:me@cartervernon.com)
-* 🧠  I'm learning C++ and Japanese
+* 🧠  I'm learning C, C++ and Japanese
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I was part of a team that swam across the English Channel
 
