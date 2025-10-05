@@ -10,7 +10,7 @@
 
 <h3 align="left">Current Main Languages/Tools:</h3>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40"
     height="40" />
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" />
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
     alt="vuejs" width="40" height="40" />
 </a>
 
