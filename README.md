@@ -9,8 +9,12 @@
 - 🏆 Always open to collaboration and new opportunities!
 
 <h3 align="left">Current Main Languages/Tools:</h3>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40"
+    height="40" />
+</a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg" alt="golang" width="40"
     height="40" />
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
