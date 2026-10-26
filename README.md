@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carter Vernon</h1>
-<h3 align="center">Director at Vista Web Ltd., IT Manager & University Student</h3>
+<h3 align="center">Director at Vista Web Ltd. & IT Manager</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on my University final year dissertation.
 - ⚡ Interested in Rust and Web Development.
 - 🧠 I'm currently learning Cloud Architecture.
 - 📫 How to reach me: [me@cartervernon.com](mailto:me@cartervernon.com).
